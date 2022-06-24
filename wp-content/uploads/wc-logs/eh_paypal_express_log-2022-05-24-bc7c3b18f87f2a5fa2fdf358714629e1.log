@@ -1,0 +1,378 @@
+2022-05-24T08:54:06+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Create Order API ) ------------------->
+{
+    "intent": "CAPTURE",
+    "application_context": {
+        "brand_name": "Easy Job",
+        "locale": "en-GB",
+        "landing_page": "BILLING",
+        "shipping_preference": "GET_FROM_FILE",
+        "user_action": "PAY_NOW",
+        "return_url": "http:\/\/easyjob.aistechnolabs.xyz\/wc-api\/Eh_PayPal_Express_Payment\/?c=order_details&p=http:\/\/easyjob.aistechnolabs.xyz\/checkout\/&intent=CAPTURE",
+        "cancel_url": "http:\/\/easyjob.aistechnolabs.xyz\/checkout\/?cancel_express_checkout=cancel"
+    },
+    "purchase_units": [
+        {
+            "items": [
+                {
+                    "name": "Premium",
+                    "description": "",
+                    "unit_amount": {
+                        "currency_code": "ZMW",
+                        "value": 500
+                    },
+                    "quantity": 1
+                }
+            ],
+            "amount": {
+                "currency_code": "ZMW",
+                "value": 500,
+                "breakdown": {
+                    "item_total": {
+                        "currency_code": "ZMW",
+                        "value": 500
+                    },
+                    "shipping": {
+                        "currency_code": "ZMW",
+                        "value": 0
+                    },
+                    "tax_total": {
+                        "currency_code": "ZMW",
+                        "value": 0
+                    },
+                    "shipping_discount": {
+                        "currency_code": "ZMW",
+                        "value": 0
+                    },
+                    "discount": {
+                        "currency_code": "ZMW",
+                        "value": 0
+                    }
+                }
+            },
+            "shipping": {
+                "name": {
+                    "full_name": "zee zee"
+                },
+                "address": {
+                    "address_line_1": "sdds",
+                    "address_line_2": "sdasd",
+                    "admin_area_2": "110011",
+                    "admin_area_1": "",
+                    "postal_code": "110011",
+                    "country_code": "IL"
+                }
+            }
+        }
+    ]
+}
+2022-05-24T08:54:07+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Response on Create Order API ) ------------------->
+{
+    "name": "UNPROCESSABLE_ENTITY",
+    "details": [
+        {
+            "location": "body",
+            "issue": "CURRENCY_NOT_SUPPORTED",
+            "description": "Currency code is not currently supported. Please refer https:\/\/developer.paypal.com\/docs\/integration\/direct\/rest\/currency-codes\/ for list of supported currency codes."
+        }
+    ],
+    "message": "The requested action could not be performed, semantically incorrect, or failed business validation.",
+    "debug_id": "2e7a760543fcd",
+    "links": [
+        {
+            "href": "https:\/\/developer.paypal.com\/docs\/api\/orders\/v2\/#error-CURRENCY_NOT_SUPPORTED",
+            "rel": "information_link",
+            "method": "GET"
+        }
+    ]
+}
+2022-05-24T08:58:43+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Create Order API ) ------------------->
+{
+    "intent": "CAPTURE",
+    "application_context": {
+        "brand_name": "Easy Job",
+        "locale": "en-GB",
+        "landing_page": "BILLING",
+        "shipping_preference": "GET_FROM_FILE",
+        "user_action": "PAY_NOW",
+        "return_url": "http:\/\/easyjob.aistechnolabs.xyz\/wc-api\/Eh_PayPal_Express_Payment\/?c=order_details&p=http:\/\/easyjob.aistechnolabs.xyz\/checkout\/&intent=CAPTURE",
+        "cancel_url": "http:\/\/easyjob.aistechnolabs.xyz\/checkout\/?cancel_express_checkout=cancel"
+    },
+    "purchase_units": [
+        {
+            "items": [
+                {
+                    "name": "Premium",
+                    "description": "",
+                    "unit_amount": {
+                        "currency_code": "USD",
+                        "value": 500
+                    },
+                    "quantity": 1
+                }
+            ],
+            "amount": {
+                "currency_code": "USD",
+                "value": 500,
+                "breakdown": {
+                    "item_total": {
+                        "currency_code": "USD",
+                        "value": 500
+                    },
+                    "shipping": {
+                        "currency_code": "USD",
+                        "value": 0
+                    },
+                    "tax_total": {
+                        "currency_code": "USD",
+                        "value": 0
+                    },
+                    "shipping_discount": {
+                        "currency_code": "USD",
+                        "value": 0
+                    },
+                    "discount": {
+                        "currency_code": "USD",
+                        "value": 0
+                    }
+                }
+            },
+            "shipping": {
+                "name": {
+                    "full_name": "zee zee"
+                },
+                "address": {
+                    "address_line_1": "sdds",
+                    "address_line_2": "sdasd",
+                    "admin_area_2": "110011",
+                    "admin_area_1": "",
+                    "postal_code": "110011",
+                    "country_code": "IL"
+                }
+            }
+        }
+    ]
+}
+2022-05-24T08:58:44+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Response on Create Order API ) ------------------->
+{
+    "id": "9D380024C2837604H",
+    "status": "CREATED",
+    "links": [
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+            "rel": "self",
+            "method": "GET"
+        },
+        {
+            "href": "https:\/\/www.sandbox.paypal.com\/checkoutnow?token=9D380024C2837604H",
+            "rel": "approve",
+            "method": "GET"
+        },
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+            "rel": "update",
+            "method": "PATCH"
+        },
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H\/capture",
+            "rel": "capture",
+            "method": "POST"
+        }
+    ]
+}
+2022-05-24T09:00:13+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Get Order Details API ) ------------------->
+{
+    "id": "9D380024C2837604H"
+}
+2022-05-24T09:00:13+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Response on Order Details ) ------------------->
+{
+    "id": "9D380024C2837604H",
+    "intent": "CAPTURE",
+    "status": "APPROVED",
+    "purchase_units": [
+        {
+            "reference_id": "default",
+            "amount": {
+                "currency_code": "USD",
+                "value": "500.00",
+                "breakdown": {
+                    "item_total": {
+                        "currency_code": "USD",
+                        "value": "500.00"
+                    },
+                    "shipping": {
+                        "currency_code": "USD",
+                        "value": "0.00"
+                    },
+                    "tax_total": {
+                        "currency_code": "USD",
+                        "value": "0.00"
+                    },
+                    "shipping_discount": {
+                        "currency_code": "USD",
+                        "value": "0.00"
+                    }
+                }
+            },
+            "payee": {
+                "email_address": "satish-facilitator@aistechnolabs.biz",
+                "merchant_id": "GFUV784Y6S7LL",
+                "display_data": {
+                    "brand_name": "Easy Job"
+                }
+            },
+            "items": [
+                {
+                    "name": "Premium",
+                    "unit_amount": {
+                        "currency_code": "USD",
+                        "value": "500.00"
+                    },
+                    "quantity": "1",
+                    "description": ""
+                }
+            ],
+            "shipping": {
+                "name": {
+                    "full_name": "Peter Kennedy"
+                },
+                "address": {
+                    "address_line_1": "7 Bell Yard",
+                    "address_line_2": "The Strand",
+                    "admin_area_2": "London",
+                    "postal_code": "WC2A 2JR",
+                    "country_code": "GB"
+                }
+            }
+        }
+    ],
+    "payer": {
+        "name": {
+            "given_name": "Peter",
+            "surname": "Kennedy"
+        },
+        "email_address": "employer1@mailinator.com",
+        "payer_id": "F4E96SSGFD7EU",
+        "address": {
+            "country_code": "GB"
+        }
+    },
+    "create_time": "2022-05-24T08:58:44Z",
+    "links": [
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+            "rel": "self",
+            "method": "GET"
+        },
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+            "rel": "update",
+            "method": "PATCH"
+        },
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H\/capture",
+            "rel": "capture",
+            "method": "POST"
+        }
+    ]
+}
+2022-05-24T09:00:15+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Captue Order API ) ------------------->
+{
+    "id": "9D380024C2837604H"
+}
+2022-05-24T09:00:16+00:00 DEBUG <------------------- WebToffee PayPal Express Payment ( Response on Capture Order ) ------------------->
+{
+    "id": "9D380024C2837604H",
+    "status": "COMPLETED",
+    "purchase_units": [
+        {
+            "reference_id": "default",
+            "shipping": {
+                "name": {
+                    "full_name": "Peter Kennedy"
+                },
+                "address": {
+                    "address_line_1": "7 Bell Yard",
+                    "address_line_2": "The Strand",
+                    "admin_area_2": "London",
+                    "postal_code": "WC2A 2JR",
+                    "country_code": "GB"
+                }
+            },
+            "payments": {
+                "captures": [
+                    {
+                        "id": "1EA052357B069463C",
+                        "status": "COMPLETED",
+                        "amount": {
+                            "currency_code": "USD",
+                            "value": "500.00"
+                        },
+                        "final_capture": true,
+                        "seller_protection": {
+                            "status": "ELIGIBLE",
+                            "dispute_categories": [
+                                "ITEM_NOT_RECEIVED",
+                                "UNAUTHORIZED_TRANSACTION"
+                            ]
+                        },
+                        "seller_receivable_breakdown": {
+                            "gross_amount": {
+                                "currency_code": "USD",
+                                "value": "500.00"
+                            },
+                            "paypal_fee": {
+                                "currency_code": "USD",
+                                "value": "25.44"
+                            },
+                            "net_amount": {
+                                "currency_code": "USD",
+                                "value": "474.56"
+                            }
+                        },
+                        "links": [
+                            {
+                                "href": "https:\/\/api.sandbox.paypal.com\/v2\/payments\/captures\/1EA052357B069463C",
+                                "rel": "self",
+                                "method": "GET"
+                            },
+                            {
+                                "href": "https:\/\/api.sandbox.paypal.com\/v2\/payments\/captures\/1EA052357B069463C\/refund",
+                                "rel": "refund",
+                                "method": "POST"
+                            },
+                            {
+                                "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+                                "rel": "up",
+                                "method": "GET"
+                            }
+                        ],
+                        "create_time": "2022-05-24T09:00:16Z",
+                        "update_time": "2022-05-24T09:00:16Z"
+                    }
+                ]
+            }
+        }
+    ],
+    "payer": {
+        "name": {
+            "given_name": "Peter",
+            "surname": "Kennedy"
+        },
+        "email_address": "employer1@mailinator.com",
+        "payer_id": "F4E96SSGFD7EU",
+        "address": {
+            "address_line_1": "7 Bell Yard",
+            "address_line_2": "The Strand",
+            "admin_area_2": "London",
+            "postal_code": "WC2A 2JR",
+            "country_code": "GB"
+        }
+    },
+    "links": [
+        {
+            "href": "https:\/\/api.sandbox.paypal.com\/v2\/checkout\/orders\/9D380024C2837604H",
+            "rel": "self",
+            "method": "GET"
+        }
+    ]
+}

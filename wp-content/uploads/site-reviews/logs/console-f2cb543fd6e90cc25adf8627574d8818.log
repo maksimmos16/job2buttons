@@ -1,0 +1,24 @@
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_3_0_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_4_0_2] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_4_4_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_4_5_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_0_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_2_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_3_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_9_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_10_3] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_11_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_14_0] has run successfully
+[2022-02-11 08:57:12] DEBUG [Modules\Migrate:163] [Migrate_5_19_0] has run successfully
+[2022-02-24 04:18:17] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-02-24 04:18:18] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-02-24 04:18:18] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-02-24 04:18:20] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-02-24 04:18:20] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-02-24 04:18:21] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1692` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:09] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7e` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:10] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7f` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:10] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7e` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:10] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7f` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:11] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7e` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-01 04:37:11] ERROR [Database:289] Can&#039;t create table `ais_easyjob_dev`.`#sql-6d_1e7f` (errno: 121 &quot;Duplicate key on write or update&quot;)

@@ -1,0 +1,3748 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Nokri Framework\n"
+"POT-Creation-Date: 2021-11-17 19:03+0500\n"
+"PO-Revision-Date: 2021-11-17 19:03+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: cpt/custom-feilds.php:5
+msgctxt "Post Type General Name"
+msgid "Custom Fields"
+msgstr ""
+
+#: cpt/custom-feilds.php:6
+msgctxt "Post Type Singular Name"
+msgid "Custom Feild"
+msgstr ""
+
+#: cpt/custom-feilds.php:7
+msgid "Custom Fields"
+msgstr ""
+
+#: cpt/custom-feilds.php:8 cpt/custom-feilds.php:34
+msgid "Custom Feild"
+msgstr ""
+
+#: cpt/custom-feilds.php:9
+msgid "Item Archives"
+msgstr ""
+
+#: cpt/custom-feilds.php:10
+msgid "Item Attributes"
+msgstr ""
+
+#: cpt/custom-feilds.php:11 job_post/custom-category-templates.php:742
+msgid "Parent Item:"
+msgstr ""
+
+#: cpt/custom-feilds.php:12 job_post/custom-category-templates.php:740
+msgid "All Items"
+msgstr ""
+
+#: cpt/custom-feilds.php:13 job_post/custom-category-templates.php:744
+msgid "Add New Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:14
+msgid "Add New"
+msgstr ""
+
+#: cpt/custom-feilds.php:15
+msgid "New Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:16 job_post/custom-category-templates.php:745
+msgid "Edit Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:17 job_post/custom-category-templates.php:746
+msgid "Update Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:18 job_post/custom-category-templates.php:747
+msgid "View Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:19
+msgid "View Items"
+msgstr ""
+
+#: cpt/custom-feilds.php:20
+msgid "Search Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:21
+msgid "Not found"
+msgstr ""
+
+#: cpt/custom-feilds.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: cpt/custom-feilds.php:23
+msgid "Featured Image"
+msgstr ""
+
+#: cpt/custom-feilds.php:24
+msgid "Set featured image"
+msgstr ""
+
+#: cpt/custom-feilds.php:25
+msgid "Remove featured image"
+msgstr ""
+
+#: cpt/custom-feilds.php:26
+msgid "Use as featured image"
+msgstr ""
+
+#: cpt/custom-feilds.php:27
+msgid "Insert into item"
+msgstr ""
+
+#: cpt/custom-feilds.php:28
+msgid "Uploaded to this item"
+msgstr ""
+
+#: cpt/custom-feilds.php:29 job_post/custom-category-templates.php:755
+msgid "Items list"
+msgstr ""
+
+#: cpt/custom-feilds.php:30 job_post/custom-category-templates.php:756
+msgid "Items list navigation"
+msgstr ""
+
+#: cpt/custom-feilds.php:31
+msgid "Filter items list"
+msgstr ""
+
+#: cpt/custom-feilds.php:35
+msgid "Post Type Description"
+msgstr ""
+
+#: cpt/custom-feilds.php:75
+msgid "Custom Fields For"
+msgstr ""
+
+#: cpt/custom-feilds.php:90
+msgid "Select Fields For"
+msgstr ""
+
+#: cpt/custom-feilds.php:92
+msgid "Registration"
+msgstr ""
+
+#: cpt/custom-feilds.php:93 functions.php:1088 index.php:268
+#: user_profile/index.php:124
+msgid "Candidate"
+msgstr ""
+
+#: cpt/custom-feilds.php:94 functions.php:1090 index.php:263
+#: user_profile/index.php:119
+msgid "Employer"
+msgstr ""
+
+#: cpt/custom-feilds.php:136
+msgid "Create Custom Fields Below"
+msgstr ""
+
+#: cpt/custom-feilds.php:162 cpt/custom-feilds.php:259
+msgid "select an option"
+msgstr ""
+
+#: cpt/custom-feilds.php:164 cpt/custom-feilds.php:259
+msgid "Select Required Field"
+msgstr ""
+
+#: cpt/custom-feilds.php:165 cpt/custom-feilds.php:259
+msgid "Input"
+msgstr ""
+
+#: cpt/custom-feilds.php:166 cpt/custom-feilds.php:259
+msgid "RadioButton"
+msgstr ""
+
+#: cpt/custom-feilds.php:167 cpt/custom-feilds.php:259
+msgid "Select Box"
+msgstr ""
+
+#: cpt/custom-feilds.php:168 cpt/custom-feilds.php:259
+msgid "Text Area"
+msgstr ""
+
+#: cpt/custom-feilds.php:169 cpt/custom-feilds.php:259 cpt/job-board.php:1219
+msgid "Date"
+msgstr ""
+
+#: cpt/custom-feilds.php:170 cpt/custom-feilds.php:259
+msgid "Number"
+msgstr ""
+
+#: cpt/custom-feilds.php:174 cpt/custom-feilds.php:259
+msgid " Enter Field Label"
+msgstr ""
+
+#: cpt/custom-feilds.php:178
+msgid "Enter Values (Separate each value with | sign)"
+msgstr ""
+
+#: cpt/custom-feilds.php:182 cpt/custom-feilds.php:259
+msgid "Is Field required"
+msgstr ""
+
+#: cpt/custom-feilds.php:184 cpt/custom-feilds.php:192
+#: cpt/custom-feilds.php:259 cpt/job-board.php:905 index.php:242 index.php:328
+#: job_post/custom-category-templates.php:72
+#: job_post/custom-category-templates.php:97
+#: job_post/custom-category-templates.php:637
+#: job_post/custom-category-templates.php:661
+msgid "Yes"
+msgstr ""
+
+#: cpt/custom-feilds.php:185 cpt/custom-feilds.php:193
+#: cpt/custom-feilds.php:259 cpt/job-board.php:912 index.php:247 index.php:333
+#: job_post/custom-category-templates.php:73
+#: job_post/custom-category-templates.php:98
+#: job_post/custom-category-templates.php:638
+#: job_post/custom-category-templates.php:662
+msgid "No"
+msgstr ""
+
+#: cpt/custom-feilds.php:190
+msgid "Is field show in public profile"
+msgstr ""
+
+#: cpt/custom-feilds.php:202 cpt/job-board.php:946
+msgid "+ Add More"
+msgstr ""
+
+#: cpt/custom-feilds.php:259
+msgid "Enter Values (Separate each value with | sign) "
+msgstr ""
+
+#: cpt/custom-feilds.php:259
+msgid "Is Field show in public profile"
+msgstr ""
+
+#: cpt/index.php:97
+msgid "Ribbion Text"
+msgstr ""
+
+#: cpt/index.php:102
+msgid "Green"
+msgstr ""
+
+#: cpt/index.php:105
+msgid "Purple"
+msgstr ""
+
+#: cpt/job-board.php:9
+msgid "Nokri JobBoard"
+msgstr ""
+
+#: cpt/job-board.php:38 job_post/custom-category-templates.php:1366
+msgid "Categories"
+msgstr ""
+
+#: cpt/job-board.php:47
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:47
+msgid "Type"
+msgstr ""
+
+#: cpt/job-board.php:56
+msgid "Qualifications"
+msgstr ""
+
+#: cpt/job-board.php:65
+msgid "Level"
+msgstr ""
+
+#: cpt/job-board.php:74
+msgid "Salary"
+msgstr ""
+
+#: cpt/job-board.php:83
+msgid "Salary Type"
+msgstr ""
+
+#: cpt/job-board.php:93
+msgid "Experience"
+msgstr ""
+
+#: cpt/job-board.php:102
+msgid "Currency"
+msgstr ""
+
+#: cpt/job-board.php:111
+msgid "Shift"
+msgstr ""
+
+#: cpt/job-board.php:120
+msgid "Skills"
+msgstr ""
+
+#: cpt/job-board.php:128
+msgid "Specilization"
+msgstr ""
+
+#: cpt/job-board.php:137
+msgid "Tags"
+msgstr ""
+
+#: cpt/job-board.php:146
+msgid "Job Class"
+msgstr ""
+
+#: cpt/job-board.php:158
+msgid "Locations"
+msgstr ""
+
+#: cpt/job-board.php:170
+msgid "Map Countries"
+msgstr ""
+
+#: cpt/job-board.php:182 cpt/job-board.php:195
+msgid "Regular Job Info"
+msgstr ""
+
+#: cpt/job-board.php:184 cpt/job-board.php:199
+msgid "Select regular for free jobs"
+msgstr ""
+
+#: cpt/job-board.php:186 cpt/job-board.php:210 cpt/job-board.php:553
+#: cpt/job-board.php:898 functions.php:1462
+#: job_post/custom-category-templates.php:590
+#: job_post/custom-category-templates.php:625
+#: job_post/custom-category-templates.php:660
+#: job_post/custom-category-templates.php:670
+#: job_post/custom-category-templates.php:946
+#: job_post/custom-category-templates.php:1125
+#: job_post/custom-category-templates.php:1279
+#: job_post/custom-category-templates.php:1299
+#: job_post/custom-category-templates.php:1336
+msgid "Select Option"
+msgstr ""
+
+#: cpt/job-board.php:187 cpt/job-board.php:205
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr ""
+
+#: cpt/job-board.php:265
+msgid "Category Order"
+msgstr ""
+
+#: cpt/job-board.php:286
+msgid "County"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "This should be follow ISO2 like"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "US"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "for USA and"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "CA"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "for Canada"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "Read More."
+msgstr ""
+
+#: cpt/job-board.php:336
+msgid "Job Expiry"
+msgstr ""
+
+#: cpt/job-board.php:380
+msgid "Select BG Color"
+msgstr ""
+
+#: cpt/job-board.php:383
+msgid "Select Font Color"
+msgstr ""
+
+#: cpt/job-board.php:425
+msgid "Assign job"
+msgstr ""
+
+#: cpt/job-board.php:434
+msgid "Select Author"
+msgstr ""
+
+#: cpt/job-board.php:437
+msgid "Select to change"
+msgstr ""
+
+#: cpt/job-board.php:480
+msgid "Submitted Job Reports"
+msgstr ""
+
+#: cpt/job-board.php:493
+msgid "Report Details"
+msgstr ""
+
+#: cpt/job-board.php:504
+msgid "Static feilds"
+msgstr ""
+
+#: cpt/job-board.php:532 cpt/job-board.php:534 functions.php:1548
+msgid "Number of vacancies"
+msgstr ""
+
+#: cpt/job-board.php:540
+msgid "Application deadline"
+msgstr ""
+
+#: cpt/job-board.php:542 cpt/job-board.php:1239
+msgid "Application deadline*"
+msgstr ""
+
+#: cpt/job-board.php:549
+msgid "Apply With Link"
+msgstr ""
+
+#: cpt/job-board.php:551 cpt/job-board.php:896
+msgid "Select an option"
+msgstr ""
+
+#: cpt/job-board.php:560
+msgid "External Link"
+msgstr ""
+
+#: cpt/job-board.php:567
+msgid "Internal Link"
+msgstr ""
+
+#: cpt/job-board.php:574
+msgid "Email"
+msgstr ""
+
+#: cpt/job-board.php:581
+msgid "Whatsapp"
+msgstr ""
+
+#: cpt/job-board.php:594 cpt/job-board.php:596
+msgid "Put Link Here"
+msgstr ""
+
+#: cpt/job-board.php:607
+msgid "Enter Email"
+msgstr ""
+
+#: cpt/job-board.php:609
+msgid "Enter valid email"
+msgstr ""
+
+#: cpt/job-board.php:620
+msgid "Whatsapp number"
+msgstr ""
+
+#: cpt/job-board.php:622
+msgid "Enter valid Whatsapp number"
+msgstr ""
+
+#: cpt/job-board.php:628
+msgid "Select address"
+msgstr ""
+
+#: cpt/job-board.php:630
+msgid "You Current Location"
+msgstr ""
+
+#: cpt/job-board.php:632
+msgid "Enter map address"
+msgstr ""
+
+#: cpt/job-board.php:864
+msgid ""
+"Please check only one taxonomy except categories,location,job class and "
+"skills"
+msgstr ""
+
+#: cpt/job-board.php:870
+msgid "More than one will not work"
+msgstr ""
+
+#: cpt/job-board.php:883
+msgid "Add Questionnaire"
+msgstr ""
+
+#: cpt/job-board.php:926 cpt/job-board.php:937 cpt/job-board.php:1046
+msgid "Enter Question"
+msgstr ""
+
+#: cpt/job-board.php:1046
+msgid "DELETE"
+msgstr ""
+
+#: cpt/job-board.php:1051
+msgid "Are You Sure ?"
+msgstr ""
+
+#: cpt/job-board.php:1084
+msgid "indeed jobs"
+msgstr ""
+
+#: cpt/job-board.php:1085
+msgid "import indeed jobs"
+msgstr ""
+
+#: cpt/job-board.php:1104
+msgid "Publisher ID*"
+msgstr ""
+
+#: cpt/job-board.php:1108
+msgid "How to Find it"
+msgstr ""
+
+#: cpt/job-board.php:1113
+msgid "Job keyword*"
+msgstr ""
+
+#: cpt/job-board.php:1117
+msgid "Job title, keywords, or company"
+msgstr ""
+
+#: cpt/job-board.php:1122
+msgid "Country*"
+msgstr ""
+
+#: cpt/job-board.php:1127
+msgid "Select country"
+msgstr ""
+
+#: cpt/job-board.php:1184
+msgid "Select  country to find jobs from specific country"
+msgstr ""
+
+#: cpt/job-board.php:1190
+msgid "Location"
+msgstr ""
+
+#: cpt/job-board.php:1194
+msgid "city, province, or region"
+msgstr ""
+
+#: cpt/job-board.php:1199
+msgid "Job type"
+msgstr ""
+
+#: cpt/job-board.php:1203
+msgid "Select Job type"
+msgstr ""
+
+#: cpt/job-board.php:1204
+msgid "Full time"
+msgstr ""
+
+#: cpt/job-board.php:1205
+msgid "Part time"
+msgstr ""
+
+#: cpt/job-board.php:1206
+msgid "contract"
+msgstr ""
+
+#: cpt/job-board.php:1207
+msgid "Internship"
+msgstr ""
+
+#: cpt/job-board.php:1208
+msgid "Temporary"
+msgstr ""
+
+#: cpt/job-board.php:1214 cpt/job-board.php:1218
+msgid "Sort by"
+msgstr ""
+
+#: cpt/job-board.php:1220
+msgid "Relevance "
+msgstr ""
+
+#: cpt/job-board.php:1226
+msgid "Jobs to import"
+msgstr ""
+
+#: cpt/job-board.php:1231
+msgid "Default 10 ,you can enter maximum  25"
+msgstr ""
+
+#: cpt/job-board.php:1236
+msgid "Expired on"
+msgstr ""
+
+#: cpt/job-board.php:1240
+msgid "Add job expiry date"
+msgstr ""
+
+#: cpt/job-board.php:1246
+msgid "Import indeed jobs"
+msgstr ""
+
+#: cpt/job-board.php:1269
+msgid "Start date"
+msgstr ""
+
+#: cpt/job-board.php:1270
+msgid "End date"
+msgstr ""
+
+#: cpt/job-board.php:1271
+msgid "Export Record"
+msgstr ""
+
+#: functions.php:254
+msgid "Your new password"
+msgstr ""
+
+#: functions.php:255
+msgid "Your new password is: "
+msgstr ""
+
+#: functions.php:280
+msgid "Email server not responding"
+msgstr ""
+
+#: functions.php:283
+msgid "Email is not resgistered with us."
+msgstr ""
+
+#: functions.php:293
+msgid "New Job"
+msgstr ""
+
+#: functions.php:294
+msgid "Got new ad"
+msgstr ""
+
+#: functions.php:1072 functions.php:1079 user_profile/index.php:111
+msgid "User Type"
+msgstr ""
+
+#: functions.php:1116 functions.php:1134 functions.php:1168
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Imported"
+msgstr ""
+
+#: functions.php:1128 functions.php:1146 functions.php:1162 functions.php:1180
+#: functions.php:1194
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: functions.php:1205
+msgid "Note: This demo data is already imported."
+msgstr ""
+
+#: functions.php:1461
+msgid "This field is required"
+msgstr ""
+
+#: functions.php:1506
+msgid "Youtube Video Link"
+msgstr ""
+
+#: functions.php:1516 functions.php:1533
+#: job_post/custom-category-templates.php:1094
+msgid "This field is required."
+msgstr ""
+
+#: functions.php:1523
+msgid "Click the box below to upload job attachments!"
+msgstr ""
+
+#: functions.php:1524
+msgid "upload with a max file size of "
+msgstr ""
+
+#: functions.php:1586
+msgid "Please add valid publisher id."
+msgstr ""
+
+#: functions.php:1590
+msgid "Please add keyword to search job."
+msgstr ""
+
+#: functions.php:1594
+msgid "Please Select country first."
+msgstr ""
+
+#: functions.php:1603
+msgid "Something went wrong."
+msgstr ""
+
+#: functions.php:1613
+msgid "No job found."
+msgstr ""
+
+#: functions.php:1831
+msgid "Published Jobs"
+msgstr ""
+
+#: functions.php:1831
+msgid "Total Users"
+msgstr ""
+
+#: functions.php:1831
+msgid "Subscribers"
+msgstr ""
+
+#: functions.php:1831
+msgid "Registered Companies"
+msgstr ""
+
+#: functions.php:1831
+msgid "Registered Candidates"
+msgstr ""
+
+#: functions.php:1831
+msgid "Employers Members"
+msgstr ""
+
+#: functions.php:1913
+msgid "Nokri - Classified WordPress Theme"
+msgstr ""
+
+#: functions.php:1917
+msgid "Get Started"
+msgstr ""
+
+#: functions.php:1919
+msgid ""
+"Docementation will helps you to understand the theme flow and will help you "
+"to setup the theme accordingly. Click the button below to go to the "
+"docementation."
+msgstr ""
+
+#: functions.php:1920
+msgid "Docementation"
+msgstr ""
+
+#: functions.php:1923
+msgid "Having Issues? Get Support!"
+msgstr ""
+
+#: functions.php:1925
+msgid ""
+"If you are facing any issue regarding setting up the theme. You can contact "
+"our support team they will be very happy to assist you."
+msgstr ""
+
+#: functions.php:1926
+msgid "Get Theme Support"
+msgstr ""
+
+#: functions.php:1929
+msgid "Looking For Customizations?"
+msgstr ""
+
+#: functions.php:1930
+msgid ""
+"Looking to add more features in the theme no problem. Our development team "
+"will customize the theme according to your requirnments. Click the link "
+"below to contact us."
+msgstr ""
+
+#: functions.php:1931
+msgid "Looking For Customization?"
+msgstr ""
+
+#: functions.php:1936
+msgid "by"
+msgstr ""
+
+#: functions.php:1936
+msgid "ScriptsBundle"
+msgstr ""
+
+#: index.php:173
+msgid "3rd Floor,Link Arcade BBL, USA."
+msgstr ""
+
+#: index.php:174
+msgid "Support@domain.com "
+msgstr ""
+
+#: index.php:176
+msgid "Mon - Sat, 8:00 AM - 6:00 PM"
+msgstr ""
+
+#: index.php:203 job_post/custom-category-templates.php:1428
+msgid "Package Essentials"
+msgstr ""
+
+#: index.php:221
+msgid "job"
+msgstr ""
+
+#: index.php:221
+msgid "Must be an integer value."
+msgstr ""
+
+#: index.php:234
+msgid "Is Package Free"
+msgstr ""
+
+#: index.php:236 index.php:257
+msgid "Select Option For Package"
+msgstr ""
+
+#: index.php:255
+msgid "Package For"
+msgstr ""
+
+#: index.php:275
+msgid "Job alert"
+msgstr ""
+
+#: index.php:283 job_post/custom-category-templates.php:1438
+msgid "Package Expiry"
+msgstr ""
+
+#: index.php:284 index.php:290 index.php:294 index.php:340
+msgid "Like 30, 40 or 50 but must be an integer value."
+msgstr ""
+
+#: index.php:285 index.php:295 job_post/custom-category-templates.php:1440
+msgid "Expiry in days, -1 means never experied unless used it."
+msgstr ""
+
+#: index.php:289
+msgid "Number of jobs to apply "
+msgstr ""
+
+#: index.php:293
+msgid "Number of days to featured "
+msgstr ""
+
+#: index.php:301 user_profile/index.php:71
+msgid "Bump up job limit"
+msgstr ""
+
+#: index.php:304 index.php:312
+msgid "-1 means never experied unless used it."
+msgstr ""
+
+#: index.php:309
+msgid "Featured profile days"
+msgstr ""
+
+#: index.php:320
+msgid "Is Candidate Search"
+msgstr ""
+
+#: index.php:322
+msgid "Select Option For Candidate Search"
+msgstr ""
+
+#: index.php:339
+msgid "Number Of Candidate Searches"
+msgstr ""
+
+#: index.php:341
+msgid "-1 means unlimited searches"
+msgstr ""
+
+#: job_post/custom-category-templates.php:45
+#: job_post/custom-category-templates.php:130
+#: job_post/custom-category-templates.php:587
+msgid "Field Name"
+msgstr ""
+
+#: job_post/custom-category-templates.php:48
+#: job_post/custom-category-templates.php:133
+#: job_post/custom-category-templates.php:594
+msgid "Status"
+msgstr ""
+
+#: job_post/custom-category-templates.php:51
+#: job_post/custom-category-templates.php:136
+msgid "Is Required?"
+msgstr ""
+
+#: job_post/custom-category-templates.php:56
+msgid "Video URL"
+msgstr ""
+
+#: job_post/custom-category-templates.php:62
+#: job_post/custom-category-templates.php:88
+#: job_post/custom-category-templates.php:491
+#: job_post/custom-category-templates.php:496
+#: job_post/custom-category-templates.php:513
+msgid "Show"
+msgstr ""
+
+#: job_post/custom-category-templates.php:63
+#: job_post/custom-category-templates.php:89
+#: job_post/custom-category-templates.php:492
+#: job_post/custom-category-templates.php:497
+#: job_post/custom-category-templates.php:514
+msgid "Hide"
+msgstr ""
+
+#: job_post/custom-category-templates.php:82
+msgid "Job Attachments"
+msgstr ""
+
+#: job_post/custom-category-templates.php:124
+msgid "Those are default fields you can show or hide them."
+msgstr ""
+
+#: job_post/custom-category-templates.php:139
+#: job_post/custom-category-templates.php:595
+msgid "In Search"
+msgstr ""
+
+#: job_post/custom-category-templates.php:172
+msgid "Add More Fields"
+msgstr ""
+
+#: job_post/custom-category-templates.php:337
+msgid "icon"
+msgstr ""
+
+#: job_post/custom-category-templates.php:588
+msgid "Slug Name"
+msgstr ""
+
+#: job_post/custom-category-templates.php:589
+msgid "Columns"
+msgstr ""
+
+#: job_post/custom-category-templates.php:591
+msgid "Enter Values"
+msgstr ""
+
+#: job_post/custom-category-templates.php:592
+msgid "Required?"
+msgstr ""
+
+#: job_post/custom-category-templates.php:593
+msgid "Remove Field"
+msgstr ""
+
+#: job_post/custom-category-templates.php:599
+msgid "New Field"
+msgstr ""
+
+#: job_post/custom-category-templates.php:606
+msgid "Click to toggle"
+msgstr ""
+
+#: job_post/custom-category-templates.php:626
+msgid "Input - Textfield"
+msgstr ""
+
+#: job_post/custom-category-templates.php:627
+msgid "Options - Select Box"
+msgstr ""
+
+#: job_post/custom-category-templates.php:628
+msgid "Options - Check Box"
+msgstr ""
+
+#: job_post/custom-category-templates.php:629
+msgid "Date - Input"
+msgstr ""
+
+#: job_post/custom-category-templates.php:630
+msgid "Website URL"
+msgstr ""
+
+#: job_post/custom-category-templates.php:648
+msgid "1/12 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:649
+msgid "1/6 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:650
+msgid "1/3 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:651
+msgid "1/4 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:671
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:131
+msgid "Active"
+msgstr ""
+
+#: job_post/custom-category-templates.php:672
+msgid "Inactive"
+msgstr ""
+
+#: job_post/custom-category-templates.php:682
+msgid "Enter Field title here."
+msgstr ""
+
+#: job_post/custom-category-templates.php:689
+msgid "Edit"
+msgstr ""
+
+#: job_post/custom-category-templates.php:690
+msgid ""
+"Enter the slug name, it must be unique and chage it with causion. only alpha "
+"numeric and _"
+msgstr ""
+
+#: job_post/custom-category-templates.php:698
+msgid "Enter Values seprated by "
+msgstr ""
+
+#: job_post/custom-category-templates.php:737
+msgctxt "Taxonomy General Name"
+msgid "Category Templates"
+msgstr ""
+
+#: job_post/custom-category-templates.php:738
+msgctxt "Taxonomy Singular Name"
+msgid "Category Template"
+msgstr ""
+
+#: job_post/custom-category-templates.php:739
+msgid "Category Templates"
+msgstr ""
+
+#: job_post/custom-category-templates.php:741
+msgid "Parent Item"
+msgstr ""
+
+#: job_post/custom-category-templates.php:743
+msgid "New Item Name"
+msgstr ""
+
+#: job_post/custom-category-templates.php:748
+msgid "Separate items with commas"
+msgstr ""
+
+#: job_post/custom-category-templates.php:749
+msgid "Add or remove items"
+msgstr ""
+
+#: job_post/custom-category-templates.php:750
+msgid "Choose from the most used"
+msgstr ""
+
+#: job_post/custom-category-templates.php:751
+msgid "Popular Items"
+msgstr ""
+
+#: job_post/custom-category-templates.php:752
+msgid "Search Items"
+msgstr ""
+
+#: job_post/custom-category-templates.php:753
+msgid "Not Found"
+msgstr ""
+
+#: job_post/custom-category-templates.php:754
+msgid "No items"
+msgstr ""
+
+#: job_post/custom-category-templates.php:782
+msgid "Are You sure you want to remove this field."
+msgstr ""
+
+#: job_post/custom-category-templates.php:856
+msgid "Duplicate Slug Name"
+msgstr ""
+
+#: job_post/custom-category-templates.php:943
+msgid "Select Template"
+msgstr ""
+
+#: job_post/custom-category-templates.php:947
+msgid "Default Template"
+msgstr ""
+
+#: job_post/custom-category-templates.php:950
+msgid ""
+"You can assign this template to only 1st level category. It will not work "
+"with sub categories."
+msgstr ""
+
+#: job_post/custom-category-templates.php:1166
+msgid "Please enter a valid website URL"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1323
+msgid "Package Essentials/Adons"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1333
+msgid "Category Type/Adosn"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1338
+msgid "Categories Based Template"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1341
+msgid "Post Ad - Adons"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1348
+msgid "Select Adons"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1353
+msgid "Featured Ad"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1356
+msgid "Bump Ad"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1439
+msgid "Like 30, 40 or 50 but must be an inter value."
+msgstr ""
+
+#: job_post/custom-category-templates.php:1443
+msgid "Simple Ads"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1444
+#: job_post/custom-category-templates.php:1448
+#: job_post/custom-category-templates.php:1452
+msgid "Must be an inter value."
+msgstr ""
+
+#: job_post/custom-category-templates.php:1447
+msgid "Featured Ads"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1451
+msgid "Bump Ads"
+msgstr ""
+
+#: job_post/index.php:6
+msgid "Update AD"
+msgstr ""
+
+#: job_post/index.php:15
+msgid "Update this AD"
+msgstr ""
+
+#: job_post/index.php:27
+msgid "Ad Type"
+msgstr ""
+
+#: job_post/index.php:38
+msgid "Featured"
+msgstr ""
+
+#: job_post/index.php:41
+msgid "Simple"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:25
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:26
+msgid "Images are for demo purpose only."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:95
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+msgid "Import Demo"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:99
+msgid "Demo Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Please Wait..."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "Re-Import"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:125
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: redux-framework/framework.php:396 redux-framework/framework.php:405
+msgid "Cheatin&#8217; eh?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-admin-notices.php:134
+msgid "Dismiss"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:40
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:50
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:112
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:143
+msgid "Warning, Premature Initialization"
+msgstr ""
+
+#. translators: This is only shown to developers, should not impact users.
+#: redux-framework/inc/classes/class-redux-api.php:146
+#, php-format
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:363
+msgid "Redux Framework is not installed. Please install it."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:726
+msgid "Unable to create a section due to missing id and title."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:744
+msgid ""
+"Unable to create a section due an empty section array or the section "
+"variable passed was not an array."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:134
+msgid "Regular 400"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr ""
+
+#. translators: 1: Redux, 2: Link to plugin review
+#: redux-framework/inc/classes/class-redux-args.php:268
+#, php-format
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:269
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:502
+#: redux-framework/inc/classes/class-redux-user-feedback.php:317
+msgid "Redux"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:276
+#: redux-framework/inc/classes/class-redux-args.php:280
+msgid "Options"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:342
+msgid "Redux Framework Notice"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:343
+msgid ""
+"There are references to the Redux Framework support site in your config's "
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:344
+#: redux-framework/inc/classes/class-redux-args.php:361
+msgid ""
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:359
+msgid "Redux Framework Notice:"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:360
+msgid ""
+"There are references to the Redux Framework support site in your config's"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:127
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#. translators: %s: URL.
+#: redux-framework/inc/classes/class-redux-cdn.php:130
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the %s plugin/"
+"extension to bypass our CDN and avoid this warning"
+msgstr ""
+
+#. translators: %s: CDN handle.
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#. translators: %s: Vendor support URL. %s: Admin pluygins page.
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+#, php-format
+msgid ""
+"The %1$s (or extension) is either not installed or not activated and thus, "
+"some controls may not render properly.  Please ensure that it is installed "
+"and %2$s"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+msgid "activated."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:136
+msgid "Security check failed."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:251
+msgid "Loading..."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:280
+#, php-format
+msgid ""
+"Register <strong>%1$s</strong> to enable automatic Google Font updates "
+"service. Plus unlock all free block templates in the Redux template library."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:285
+#: redux-framework/inc/fields/typography/class-redux-typography.php:739
+msgid "learn more"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:292
+msgid "Register Now"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:293
+#: redux-framework/inc/classes/class-redux-connection-banner.php:405
+msgid "No thanks"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:337
+msgid ""
+"You’re almost done. Register for our service to unlock even more tools to "
+"help you build better sites faster in WordPress."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:343
+msgid "Dismiss this notice"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:358
+msgid "Visit our website to learn more!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:370
+msgid ""
+"Redux helps you to take your site to the next level with tools that greatly "
+"enhance your WordPress experience."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:380
+msgid "Build better sites faster with Redux"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:384
+msgid ""
+"The Redux block library service allows you to build any site you want in "
+"minutes with a click of a button. With over 1,000+ templates, Redux helps "
+"you build sites fast!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:393
+msgid ""
+"No registration is required to use Redux as you always have. By registering "
+"for our service you gain access to Google Font updates as well as access to "
+"all free templates in our block template library."
+msgstr ""
+
+#. translators: 1. Name
+#. phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+#: redux-framework/inc/classes/class-redux-connection-banner.php:405
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:341
+msgid "No Thanks"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:409
+#: redux-framework/inc/classes/class-redux-connection-banner.php:456
+#: redux-framework/inc/fields/typography/class-redux-typography.php:738
+msgid "Register"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:443
+msgid "Redux Logo"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:448
+msgid ""
+"Activate essential WordPress security and performance tools by setting up "
+"Redux"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:465
+msgid "Security & Backups"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:472
+msgid ""
+"Redux protects you against brute force attacks and unauthorized logins. "
+"Basic protection is always free, while premium plans add unlimited backups "
+"of your whole site, spam protection, malware scanning, and automated fixes."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:485
+msgid "Built-in Performance"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:492
+msgid ""
+"Activate site accelerator tools and watch your page load times decrease—"
+"we'll optimize your images and serve them from our own powerful global "
+"network of servers, and speed up your mobile site to reduce bandwidth usage."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:507
+msgctxt "a link that closes the modal window that offers to connect Redux"
+msgid "Not now, thank you."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:531
+msgid ""
+"<strong>Redux is activated!</strong> Each site on your network must be "
+"connected individually by an admin on that site."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:553
+#, php-format
+msgid ""
+"By clicking the <strong>Register</strong> button, you agree to our <a href="
+"\"%1$s\" target=\"_blank\">terms of service</a>, to create an account, and "
+"to share details of your usage metrics with Redux.io."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:167
+msgid "Gutenberg is currently disabled!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:175
+msgid "Hmm, it seems something else is disabling Gutenberg..."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:178
+msgid "Your theme author has disabled Gutenberg!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:181
+msgid "Looks like something has disabled Gutenberg?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:186
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:192
+msgid "Enable Gutenberg"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:190
+msgid "Your theme"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:210
+msgid "Disable Plugin"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:213
+msgid "Disable Plugins"
+msgstr ""
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-enable-gutenberg.php:332
+msgid "Redux WordPress Plugin"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:616
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:695
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:632
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:696
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:648
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:664
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:697
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:680
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:694
+msgid "Please Wait"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:707
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:711
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#. translators: %1$s Extension friendly name. %2$s: minimum Redux version.
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+#, php-format
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+msgid "You are currently running Redux Framework version "
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:225
+msgid ""
+"This field will not render in your option panel, and featuress of this "
+"extension will not be available until the latest version of Redux Framework "
+"has been installed."
+msgstr ""
+
+#. translators: %s is the name of an extension
+#: redux-framework/inc/classes/class-redux-extensions.php:92
+#, php-format
+msgid "The `%s` extension was not located properly"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:38
+#: redux-framework/inc/fields/slides/class-redux-slides.php:130
+#: redux-framework/inc/fields/slides/class-redux-slides.php:265
+msgid "Title"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:40
+#: redux-framework/inc/fields/slides/class-redux-slides.php:142
+#: redux-framework/inc/fields/slides/class-redux-slides.php:278
+msgid "Description"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:43
+#: redux-framework/inc/classes/class-redux-page-render.php:988
+msgid "Default"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:46
+msgid "Permissions"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr ""
+
+#. translators: %1$s: Upload URL.  %2$s: Codex URL.
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+msgid "File Permission Issues"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that %1$s has the "
+"proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as %2$s."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:432
+msgid "outlined here"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-functions.php:511
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-helpers.php:1265
+msgid "version"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-helpers.php:1265
+msgid "is out of date. The core version is"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:172
+msgid "Enable"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:177
+msgid "Disable"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:184
+msgid "moving the mouse over"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:186
+msgid "clicking"
+msgstr ""
+
+#. translators: %1$s: Mousr action.  %2$s: Hint status.
+#: redux-framework/inc/classes/class-redux-page-render.php:191
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %1$s the hint icon, offering addition "
+"information about the field in which they appear.  They can be %2$s by using "
+"the link below."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:196
+msgid "Hints"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:212
+msgid "Hint Tooltip Preferences"
+msgstr ""
+
+#. translators: %1$s is the field ID, %2$s is the field type.
+#: redux-framework/inc/classes/class-redux-page-render.php:513
+#, php-format
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:155
+msgid "Settings Imported!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:176
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:197
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:218
+msgid "Settings Saved!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:245
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:259
+msgid "error(s) were found!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:274
+msgid "warning(s) were found!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:394
+msgid ""
+"Your panel has bundled copies of Redux Framework template files that are "
+"outdated!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:394
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:68
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr ""
+
+#. translators: Number of years
+#: redux-framework/inc/classes/class-redux-user-feedback.php:99
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:101
+msgid "a year"
+msgstr ""
+
+#. translators: Number of weeks
+#: redux-framework/inc/classes/class-redux-user-feedback.php:108
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:110
+msgid "a week"
+msgstr ""
+
+#. translators: Number of days
+#: redux-framework/inc/classes/class-redux-user-feedback.php:117
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:119
+msgid "a day"
+msgstr ""
+
+#. translators: Number of hours
+#: redux-framework/inc/classes/class-redux-user-feedback.php:126
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:128
+msgid "an hour"
+msgstr ""
+
+#. translators: Number of minutes
+#: redux-framework/inc/classes/class-redux-user-feedback.php:135
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:137
+msgid "a minute"
+msgstr ""
+
+#. translators: Number of seconds
+#: redux-framework/inc/classes/class-redux-user-feedback.php:144
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:146
+msgid "a second"
+msgstr ""
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:276
+#, php-format
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#. translators: 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:280
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#. translators: 1. Name, 2. Time
+#: redux-framework/inc/classes/class-redux-user-feedback.php:283
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Would you mind leaving a review to "
+"let us know know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:287
+msgid "Leave a Review"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:288
+msgid "No thanks / I already have"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-wordpress-data.php:358
+msgid "[unassigned]"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:721
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:722
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:723
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:97
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:126
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:167
+msgid "You are customizing"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:163
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:147
+msgid "Back"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:174
+msgid "Help"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:91
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:140
+msgid "Press return or enter to open"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/class-redux-extension-import-export.php:84
+msgid "Import / Export"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:96
+msgid "Paste your clipboard data here."
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:112
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:132
+#: redux-framework/inc/welcome/views/health-report.php:77
+msgid "Copied!"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:168
+msgid "Your panel has unchanged values, would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/extensions/options_object/class-redux-extension-options-object.php:72
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr ""
+
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:121
+#: redux-framework/inc/fields/color/class-redux-color.php:76
+#: redux-framework/inc/fields/color_gradient/class-redux-color-gradient.php:136
+msgid "Transparent"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:132
+msgid "No Repeat"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:133
+msgid "Repeat All"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:134
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:135
+msgid "Repeat Vertically"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:136
+#: redux-framework/inc/fields/background/class-redux-background.php:151
+#: redux-framework/inc/fields/background/class-redux-background.php:169
+#: redux-framework/inc/fields/background/class-redux-background.php:187
+#: redux-framework/inc/fields/background/class-redux-background.php:206
+msgid "Inherit"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:139
+msgid "Background Repeat"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:152
+#: redux-framework/inc/fields/background/class-redux-background.php:170
+msgid "Border Box"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:153
+#: redux-framework/inc/fields/background/class-redux-background.php:171
+msgid "Content Box"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:154
+#: redux-framework/inc/fields/background/class-redux-background.php:172
+msgid "Padding Box"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:175
+msgid "Background Origin"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:188
+msgid "Cover"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:189
+msgid "Contain"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:192
+msgid "Background Size"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:205
+msgid "Scroll"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:209
+msgid "Background Attachment"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:221
+msgid "Left Top"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:222
+msgid "Left center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:223
+msgid "Left Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:224
+msgid "Center Top"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:225
+msgid "Center Center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:226
+msgid "Center Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:227
+msgid "Right Top"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:228
+msgid "Right center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:229
+msgid "Right Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:232
+msgid "Background Position"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:287
+#: redux-framework/inc/fields/media/class-redux-media.php:89
+msgid "No media selected"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:332
+#: redux-framework/inc/fields/media/class-redux-media.php:244
+#: redux-framework/inc/fields/slides/class-redux-slides.php:107
+#: redux-framework/inc/fields/slides/class-redux-slides.php:251
+msgid "Upload"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:339
+#: redux-framework/inc/fields/media/class-redux-media.php:251
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:60
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:77
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:99
+#: redux-framework/inc/fields/slides/class-redux-slides.php:118
+#: redux-framework/inc/fields/slides/class-redux-slides.php:253
+msgid "Remove"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:106
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:165
+msgid "All"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:123
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:223
+#: redux-framework/inc/fields/typography/class-redux-typography.php:641
+msgid "Top"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:135
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:147
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:255
+#: redux-framework/inc/fields/typography/class-redux-typography.php:653
+msgid "Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:159
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:92
+msgid "Shadow"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:116
+msgid "Horizontal Length "
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:125
+msgid "Horizontal Length"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:140
+msgid "Vertical Length "
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:149
+msgid "Vertical Length"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:164
+msgid "Blur Radius "
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:173
+msgid "Blur Radius"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:188
+msgid "Spread "
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:197
+msgid "Spread"
+msgstr ""
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr ""
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr ""
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:173
+#: redux-framework/inc/fields/typography/class-redux-typography.php:577
+msgid "Height"
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:194
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:198
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:200
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:282
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr ""
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:87
+msgid "Hover"
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:109
+msgid "Visited"
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:153
+msgid "Focus"
+msgstr ""
+
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:28
+msgid "Add More"
+msgstr ""
+
+#: redux-framework/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr ""
+
+#: redux-framework/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr ""
+
+#: redux-framework/inc/fields/select/class-redux-select.php:106
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:26
+msgid "Select an item"
+msgstr ""
+
+#: redux-framework/inc/fields/select/class-redux-select.php:183
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:145
+msgid "No items of this type were found."
+msgstr ""
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr ""
+
+#. translators: New accordion title.
+#. translators:  Content title for new accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:48
+#: redux-framework/inc/fields/slides/class-redux-slides.php:235
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:154
+#: redux-framework/inc/fields/slides/class-redux-slides.php:290
+msgid "URL"
+msgstr ""
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:217
+#: redux-framework/inc/fields/slides/class-redux-slides.php:353
+msgid "Delete"
+msgstr ""
+
+#. translators:  Content title for accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:365
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:37
+msgid "On"
+msgstr ""
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:27
+msgid ""
+"The Text field accepts any form of text and optionally validates the text "
+"before saving the value."
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:307
+msgid "Font Family"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:309
+msgid "Font family"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:349
+#: redux-framework/inc/fields/typography/class-redux-typography.php:351
+msgid "Backup Font Family"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:370
+#: redux-framework/inc/fields/typography/class-redux-typography.php:390
+msgid "Font style"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:371
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:388
+msgid "Style"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:403
+msgid "Font subsets"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:411
+msgid "Font Subsets"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:414
+msgid "Subsets"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:416
+msgid "Font script"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:430
+#: redux-framework/inc/fields/typography/class-redux-typography.php:431
+#: redux-framework/inc/fields/typography/class-redux-typography.php:433
+#: redux-framework/inc/fields/typography/class-redux-typography.php:435
+msgid "Text Align"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:444
+#: redux-framework/inc/fields/typography/class-redux-typography.php:480
+#: redux-framework/inc/fields/typography/class-redux-typography.php:506
+#: redux-framework/inc/fields/typography/class-redux-typography.php:535
+msgid "inherit"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:445
+msgid "left"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:446
+msgid "right"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:447
+msgid "center"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:448
+msgid "justify"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:449
+#: redux-framework/inc/fields/typography/class-redux-typography.php:479
+msgid "initial"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:461
+#: redux-framework/inc/fields/typography/class-redux-typography.php:462
+#: redux-framework/inc/fields/typography/class-redux-typography.php:464
+#: redux-framework/inc/fields/typography/class-redux-typography.php:466
+msgid "Text Transform"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:475
+#: redux-framework/inc/fields/typography/class-redux-typography.php:534
+msgid "none"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:476
+msgid "capitalize"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:477
+msgid "uppercase"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:478
+msgid "lowercase"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:492
+#: redux-framework/inc/fields/typography/class-redux-typography.php:493
+#: redux-framework/inc/fields/typography/class-redux-typography.php:495
+#: redux-framework/inc/fields/typography/class-redux-typography.php:497
+msgid "Font Variant"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:507
+msgid "normal"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:508
+msgid "small-caps"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:520
+#: redux-framework/inc/fields/typography/class-redux-typography.php:521
+#: redux-framework/inc/fields/typography/class-redux-typography.php:523
+#: redux-framework/inc/fields/typography/class-redux-typography.php:525
+msgid "Text Decoration"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:536
+msgid "underline"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:537
+msgid "overline"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:538
+msgid "line-through"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:539
+msgid "blink"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:552
+#: redux-framework/inc/fields/typography/class-redux-typography.php:557
+msgid "Font Size"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:558
+msgid "Size"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:571
+#: redux-framework/inc/fields/typography/class-redux-typography.php:576
+msgid "Line Height"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:591
+#: redux-framework/inc/fields/typography/class-redux-typography.php:596
+#: redux-framework/inc/fields/typography/class-redux-typography.php:597
+msgid "Word Spacing"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:611
+#: redux-framework/inc/fields/typography/class-redux-typography.php:616
+#: redux-framework/inc/fields/typography/class-redux-typography.php:617
+msgid "Letter Spacing"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:639
+#: redux-framework/inc/fields/typography/class-redux-typography.php:641
+msgid "Margin Top"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:651
+#: redux-framework/inc/fields/typography/class-redux-typography.php:653
+msgid "Margin Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:675
+msgid "Font Color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:682
+msgid "Font color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:736
+msgid ""
+"Your Google Fonts are out of date. In order to update them you must register "
+"for Redux to enable updates."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:738
+msgid "to enable font updates"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:743
+msgid "Automated updates"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:743
+msgid "one-time update"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:756
+msgid "Shadow Color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:761
+msgid "Shadow color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:773
+#: redux-framework/inc/fields/typography/class-redux-typography.php:782
+msgid "Horizontal"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:790
+#: redux-framework/inc/fields/typography/class-redux-typography.php:799
+msgid "Vertical"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:807
+#: redux-framework/inc/fields/typography/class-redux-typography.php:816
+msgid "Blur"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:856
+msgid "Downloading Google Fonts..."
+msgstr ""
+
+#. translators: Aria title, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:858
+#, php-format
+msgid "Update Failed|msg. %1$s"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:858
+msgid "Retry?"
+msgstr ""
+
+#. translators: Javascript reload command, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:860
+#, php-format
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:860
+msgid "Reload the page"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1286
+msgid "Standard Fonts"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1369
+msgid "Google Webfonts"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:44
+msgid "Gradient Type "
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:53
+msgid "linear"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:54
+msgid "radial"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:82
+msgid "From Reach "
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:91
+msgid "From Reach"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:105
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:114
+msgid "To Reach"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:135
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:144
+msgid "Gradient Angle"
+msgstr ""
+
+#: redux-framework/inc/lib/image-filters/class-redux-image-filters.php:55
+msgid "Filters"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid "RECOMMENDED"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "strongly"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "suggested that you read"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "this document"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "or your theme will be rejected because of Redux."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "REQUIRED"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid ""
+"or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid ""
+"The following arguments MUST be used for WP.org submissions, or you will be "
+"rejected because of your Redux configuration."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux localization utilities"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Code Styles"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Plugin File"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "CI Testing FIle"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:50
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"folder. Embedding anything else will get your rejected from theme "
+"submission. Suspected Redux package file(s):"
+msgstr ""
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:34
+#, php-format
+msgid ""
+"Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:46
+#, php-format
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr ""
+
+#: redux-framework/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: redux-framework/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr ""
+
+#: redux-framework/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr ""
+
+#: redux-framework/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr ""
+
+#: redux-framework/inc/validation/no_html/class-redux-validation-no-html.php:27
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+
+#: redux-framework/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: redux-framework/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: redux-framework/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+msgid "That URL slug is in use, please choose another."
+msgstr ""
+
+#: redux-framework/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "If you like"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "please leave us a"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:87
+msgid "rating. A huge thank you in advance!"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:104
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:104
+msgid "Redux Framework"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:110
+msgid "Redux Health Check"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:206
+msgid "What is Redux?"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:211
+msgid "Health Check"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:279
+msgid "Disable Panel Demo"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:285
+msgid "Enable Panel Demo"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:17
+msgid "Welcome to"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:21
+msgid ""
+"Redux is the world's most powerful and widely used WordPress interface "
+"builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:25
+#: redux-framework/inc/welcome/views/about.php:149
+#: redux-framework/inc/welcome/views/health-report.php:47
+#: redux-framework/inc/welcome/views/health-report.php:875
+msgid "Version"
+msgstr ""
+
+#. translators: %s: HTML.
+#: redux-framework/inc/welcome/views/about.php:34
+#, php-format
+msgid "Redux is Where the End User %s Interacts with WordPress"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:35
+msgid ""
+"Redux is a foundation on which to build any interface in WordPress. It's "
+"time saved, frustrations reduced, and a unified experience."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:38
+msgid "Metaboxes"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:39
+msgid "Taxonomies"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:40
+msgid "User Meta"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:41
+msgid "Options Panel"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:42
+msgid "Customizer"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:43
+msgid "Gutenberg"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:57
+msgid "Did I install this?"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:61
+msgid ""
+"Maybe not! These items are using Redux. If you want to keep using them, "
+"Redux will need to remain installed and activated."
+msgstr ""
+
+#. translators: %1$s: URL, %2$s: close tag.
+#: redux-framework/inc/welcome/views/about.php:72
+#, php-format
+msgid ""
+"Maybe not! If you want to see what Redux is all about, click here to "
+"%1$sActivate Demo Mode%2$s."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:99
+msgid "Version:"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:104
+#: redux-framework/inc/welcome/views/about.php:157
+msgid "By"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:111
+#: redux-framework/inc/welcome/views/health-report.php:863
+msgid "Theme"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:163
+msgid "Plugin"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:39
+msgid "Redux - Health Report"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:43
+msgid ""
+"Our core mantra at Redux is backward compatibility. With millions instances "
+"worldwide, all we care about is keeping can be assured that we will take "
+"care of you."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:56
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:61
+msgid "Get System Report"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:67
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:78
+msgid "Copy for Support"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:88
+msgid "WordPress Environment"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:95
+msgid "Home URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:98
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:104
+msgid "Site URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:107
+msgid "The root URL of your site."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:115
+msgid "Redux Version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:118
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:126
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:129
+#: redux-framework/inc/welcome/views/health-report.php:152
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:141
+msgid "To allow data saving, make"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:141
+msgid "writable."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:149
+msgid "WP Content URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:160
+msgid "WP Version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:163
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:171
+msgid "WP Multisite"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:174
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:188
+msgid "Permalink Structure"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:191
+msgid ""
+"The current permalink structure as defined in WordPress Settings->Permalinks."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:200
+msgid "Front Page Display"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:203
+msgid "The current Reading mode of WordPress."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:212
+msgid "Front Page"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:215
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:223
+msgid "Posts Page"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:226
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:237
+msgid "WP Memory Limit"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:240
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:247
+msgid "We recommend setting memory to at least 40MB. See:"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:247
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:256
+msgid "Database Table Prefix"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:259
+msgid "The prefix structure of the current WordPress database."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:267
+msgid "WP Debug Mode"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:270
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:284
+msgid "Language"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:287
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:299
+msgid "Browser"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:306
+msgid "Browser Info"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:309
+msgid "Information about the current web browser."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:326
+msgid "Server Environment"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:333
+msgid "Server Info"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:336
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:344
+msgid "Localhost Environment"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:347
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:363
+msgid "PHP Version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:366
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:374
+msgid "ABSPATH"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:377
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:386
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:390
+#: redux-framework/inc/welcome/views/health-report.php:399
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:395
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:404
+msgid "PHP Time Limit"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:406
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:411
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:415
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:420
+msgid "PHP Display Errors"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:424
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:440
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:443
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:461
+msgid "MySQL Version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:463
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:468
+msgid "Max Upload Size"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:470
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:476
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:479
+msgid "The default timezone for your server."
+msgstr ""
+
+#. translators: %s default time zone.
+#: redux-framework/inc/welcome/views/health-report.php:487
+msgid "Default timezone is"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:487
+msgid "it should be UTC"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:502
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:508
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:512
+msgid "Remote Post"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:513
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:518
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:521
+#: redux-framework/inc/welcome/views/health-report.php:536
+msgid "Error:"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:528
+msgid "Remote Get"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:529
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:534
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:572
+msgid "Active Plugins"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:585
+msgid "Visit plugin homepage"
+msgstr ""
+
+#. translators: %s Author name and URL.
+#: redux-framework/inc/welcome/views/health-report.php:593
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:613
+msgid "Redux Instance: "
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:623
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:633
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:643
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:662
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:681
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:688
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:695
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:702
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:710
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:729
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:748
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:768
+msgid ""
+"These files are calling this opt_name. If you want to alter the config of "
+"this opt_name, modify these files."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:800
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:807
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:835
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:868
+msgid "Name"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:870
+msgid "The name of the current active theme."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:877
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:885
+msgid "is available"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:891
+msgid "Author URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:893
+msgid "The theme developers URL."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:898
+msgid "Child Theme"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:900
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:908
+#, php-format
+msgid ""
+"If you are modifying Redux Framework on a parent theme that you did not "
+"build personally we recommend using a child theme. See: <a href=\"%s\" "
+"target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:917
+msgid "Parent Theme Name"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:921
+msgid "The name of the parent theme."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:927
+msgid "Parent Theme Version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:930
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:936
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/health-report.php:939
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:58
+#: redux-framework/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:62
+#: redux-framework/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:63
+#: redux-framework/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:67
+#: redux-framework/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: redux-framework/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:11
+#: redux-framework/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: user_profile/index.php:7
+msgid "Package Information"
+msgstr ""
+
+#: user_profile/index.php:28
+msgid "N/A"
+msgstr ""
+
+#: user_profile/index.php:31
+msgid " Jobs"
+msgstr ""
+
+#: user_profile/index.php:43
+msgid "Jobs applied (-1 means unlimited)"
+msgstr ""
+
+#: user_profile/index.php:50 user_profile/index.php:81
+msgid "Featured profile (Y-mm-dd)"
+msgstr ""
+
+#: user_profile/index.php:60
+msgid " Package expiry (Y-mm-dd)"
+msgstr ""
+
+#: user_profile/index.php:92
+msgid "Candidates Resumes Access"
+msgstr ""
+
+#: user_profile/index.php:101
+msgid "User Profile Information"
+msgstr ""
+
+#: user_profile/index.php:114 user_profile/index.php:132
+msgid "Selet an option"
+msgstr ""
+
+#: user_profile/index.php:129
+msgid "User Profile Setting"
+msgstr ""
+
+#: user_profile/index.php:137
+msgid "Public"
+msgstr ""
+
+#: user_profile/index.php:142
+msgid "Private"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Nokri Framework"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "scriptsbundle"
+msgstr ""

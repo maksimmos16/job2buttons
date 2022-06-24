@@ -1,0 +1,95 @@
+2022-06-22T10:01:30+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-active-jobs.php(195): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\general-template.php(204): locate_template()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-dashboard.php(252): get_template_part()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#7 C:\OpenServer\domains\localhost\easyjob\wp-includes\general- in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:32:12+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-active-jobs.php(195): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\general-template.php(204): locate_template()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-dashboard.php(252): get_template_part()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#7 C:\OpenServer\domains\localhost\easyjob\wp-includes\general- in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:32:28+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-active-jobs.php(195): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\general-template.php(204): locate_template()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\employer\employer-dashboard.php(252): get_template_part()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#7 C:\OpenServer\domains\localhost\easyjob\wp-includes\general- in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:32:31+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:44:14+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:44:22+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:46:04+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T10:49:03+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-22T14:08:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\candidate\candidate-jobs-applied.php:78
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\localhost\easyjob\wp-includes\general-template.php(204): locate_template()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\candidate\candidate-dashboard.php(253): get_template_part()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\easyjob\wp-includes\template.php(716): load_template()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-includes\general-template.php(204): locate_template()
+#7 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\page-dashboard.php(82): get_template_part()
+#8 C:\ in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\template-parts\candidate\candidate-jobs-applied.php on line 78
+

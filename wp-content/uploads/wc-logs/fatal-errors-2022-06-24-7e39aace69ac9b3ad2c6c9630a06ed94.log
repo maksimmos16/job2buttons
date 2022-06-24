@@ -1,0 +1,10 @@
+2022-06-24T07:06:01+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri-child\template-parts\candidate\candidate-jobs-applied-edit.php on line 236
+
+2022-06-24T08:00:58+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri-child\template-parts\candidate\candidate-jobs-applied-edit-test.php on line 102
+
+2022-06-24T09:02:00+00:00 CRITICAL syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\classes\candidate.php on line 1856
+
+2022-06-24T09:17:52+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri-child\template-parts\candidate\candidate-jobs-applied-edit-test.php on line 216
+
+2022-06-24T10:39:34+00:00 CRITICAL Cannot redeclare nokri_view_application() (previously declared in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\classes\candidate.php:1791) in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\classes\candidate.php on line 1869
+

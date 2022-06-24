@@ -1,0 +1,250 @@
+/*
+Theme Name: Nokri child
+Description: Responsive, Neat & Clean WP Theme.
+Author: Scripts Bundle
+Theme URI: https://demo.nokriwp.com/
+Author URI: http://scriptsbundle.com/
+Version: 1.0.0
+Template:     nokri
+License: Themeforest Split Licence
+License URI: https://themeforest.net/user/scriptsbundle/
+Text Domain: nokri
+Tags: featured-images, sticky-post, translation-ready
+*/
+.mega-menu .menu-logo img{ margin-top: 0 !important; height: 50px; }
+.job-detail-cat{margin-bottom: 28px;line-height: 20px !important;}
+.browse-category .n-extra-btn-section{ margin-top:0px; }
+.browse-category .category-style-4 { padding-bottom: 0px; }
+.browse-category .category-style-4 .category-style-4-box-img { background-color: #5e2eb5; border-color: #5e2eb5; }
+.easy-job-video video#home-video {width: 50%;height: 50%;margin-top: 40px;}
+.browse-category section.category-style-4{padding-top: 30px;}
+.view-more a.btn.n-btn-rounded:hover {color: #5e2eb5;background: transparent;}
+.view-more a.btn.n-btn-rounded{margin-top: 20px; }
+.home-featured-jobs section.main-section-category { height: 0 !important; background-image: none !important; padding: 0 !important; }
+.home-featured-jobs .main-cat-detail-box { display: none; }
+.home-featured-jobs .cat-tabs .panel-primary > .panel-heading{top:0;}
+.home-featured-jobs .panel-body { margin-top: 58px; }
+.home-featured-jobs .heading-title.black { margin-bottom: 35px; }
+.home-moving-phrase {width: 100%;display: inline-block;text-align: center;font-size: 31px;color: #ffffff;margin: 10px 0 0;/*animation: blink 7s ease 7s infinite normal forwards;*/ font-weight: bold;}
+.home-moving-phrase p{ margin-bottom: 5px; font-size: 31px !important;}
+.getting-job-section .wpb_content_element{ width: 100%; display: inline-block; margin-top: 40px; margin-bottom: 10px !important;}
+.getting-job-section .vc_images_carousel .vc_carousel-control .icon-next, .vc_images_carousel .vc_carousel-control .icon-prev{ font-size: 70px !important; color: #ffffff;}
+
+
+
+
+/* Footer css start */
+.n-footer-transparent .n-footer-block .n-social-bar li:hover{ background-color: #ffffff !important;}
+.n-footer-transparent .n-footer-block .n-social-bar li:hover a{ color: #000000;}
+.n-footer-transparent.footer-two .n-footer-block .n-app-btn{ width: 60% !important; margin: 0 0 10px 0 !important;}
+.n-footer-transparent .n-footer-block{ overflow: visible;}
+.n-footer-transparent .n-footer-block .n-page-links{ overflow: visible;padding-left: 0px; list-style: none;}
+.n-footer-transparent.footer-two .n-footer-block .n-page-links.multiple{columns: initial !important;}
+.n-footer-transparent .n-footer-block .n-page-links.multiple{columns: initial !important;}
+.n-footer-transparent .n-footer-block .n-page-links li{ float: left;width: calc(100% / 2); margin-left: 0 !important;}
+.n-footer-transparent .n-footer-block.ftr-job-location{width: 70%;float: left;}
+.n-footer-transparent .n-footer-transparent .n-footer-block.ftr-job-menu .n-page-links li{ width: 100%;}
+.n-footer-transparent .n-footer-block.ftr-job-menu .n-page-links li{ width: 100%;}
+
+/* Contact-us css start */
+.contact-page .wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output{ width: 100%; display: inline-block;}
+.contact-page .wpcf7 form .wpcf7-response-output{ width: 100%; float: left;}
+.contact-page .n-btn-flat{ outline: none !important;}
+
+.custom-fld .dashboard-social-links div:nth-child(3),.custom-fld .dashboard-social-links div:nth-child(2) { display: none;}
+
+.single-post .review-form{ background-color: transparent;}
+.single-post .review-form .comment-notes{ margin: 0 0 10px 0;}
+.single-post .review-form .comment-form-cookies-consent label {width: calc(100% - 24px);float: right;margin: -2px 0 0 0;}
+
+
+@keyframes blink {
+    0%,
+    50%,
+    100% {opacity: 1;}  
+    25%,
+    75% {opacity: 0;}
+  }
+
+/* Review css start */
+.blog-post .glsr-form-wrap label span{font-size: 14px;text-transform: capitalize;}
+.blog-post .glsr-form-wrap input,.blog-post .glsr-form-wrap textarea{box-shadow:none;border:1px solid #ddd !important;border-radius:4px !important;height: 50px;box-shadow: none !important;color: #9ea1a2;font-size: 14px !important;}
+.blog-post .glsr-form-wrap textarea{height: 90px;}
+.blog-post .glsr-form-wrap input::placeholder,.blog-post .glsr-form-wrap textarea::placeholder{color: #9ea1a2;}
+.blog-post .glsr-form-wrap .glsr-button{background-color:#5e2eb5;border-color:#5e2eb5;color:#ffffff;position:relative;font-size:15px;font-weight:500;}
+.blog-post .glsr-form-wrap .glsr-button{border: none;outline: none;text-transform: capitalize;}
+.glsr-default form.glsr-form .glsr-field-error,.glsr-default form.glsr-form .glsr-form-failed{font-size: 1.1rem !important;text-transform: capitalize;}
+.blog-single-img{ width: 100%; text-align: center;}
+
+/* .blog-post .glsr-form-wrap .glsr-button::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;border-radius:4px;opacity:0;transform:scale(0,0);z-index:-1;transition:all .5s ease-out 0s;}
+.blog-post .glsr-form-wrap .glsr-button:hover::before{background-color:rgba(255,255,255,.2);opacity:1;transform:scale(1,1);} */
+.glsr-reviews-wrap .glsr-reviews{margin-top: 40px;}
+.glsr-summary-wrap .glsr-tag-value,.glsr-summary-wrap .glsr-bar-label,.glsr-summary-wrap .glsr-bar-percent{font-size: 14px;}
+
+.glsr-summary-percentages .glsr-bar{display:flex !important;white-space:nowrap;justify-content:center !important;align-items:center !important;margin-bottom:1rem !important;}
+.glsr-summary-percentages span.glsr-bar-label{width: 110px;}
+.glsr-summary-percentages span.glsr-bar-percent{width:45px;text-align:left !important;}
+.glsr-reviews-wrap h3.glsr-tag-value{font-weight:600;font-size:20px;text-transform: capitalize;}
+.glsr-default form.glsr-form .glsr-toggle label{font-size: 1.3em !important;}
+.glsr-default form.glsr-form .glsr-toggle input[type=checkbox]+.glsr-toggle-track{height: 1.8rem !important;width: calc(3.8rem - 6px) !important;}
+.glsr-default form.glsr-form .glsr-toggle input[type=checkbox]+.glsr-toggle-track:after{height: calc(1.9rem - 8px) !important;width: calc(1.9rem - 8px) !important;}
+.glsr-reviews-wrap .nav-links .page-numbers{display:inline-block;width:30px;height:30px;text-align:center;line-height:30px;font-weight:700;border-radius:4px;color: #5e2eb5;cursor: pointer;border: 1px solid #5e2eb5;}
+.glsr-reviews-wrap .nav-links .page-numbers.current,.glsr-reviews-wrap .nav-links .page-numbers:hover{background:#5e2eb5;color:#fff;}
+.glsr-reviews-wrap .nav-links .next.page-numbers{width: 85px;}
+.glsr-reviews-wrap .nav-links .prev.page-numbers{width: 100px;}
+
+
+
+
+
+
+
+/* Home css start */
+.n-price-single h3{display: none;}
+.n-price-single .n-price-top-text{display: flex;flex-direction: column;justify-content: center;align-items: center;}
+.n-price-single .n-price-top-text p{font-size: 30px !important;}
+
+.pricing-item{text-align: center;}
+.pricing-item .price{display: none;}
+.pricing-item strong{font-size: 1.8em !important;}
+
+
+.get-invoice a{ color: #fff !important; }
+
+ul#searchResult {
+     position: absolute;
+    background: #ffffff;
+    width: 100%;
+    z-index: 2;
+    overflow: visible;
+    list-style: none;
+    width: 92%;    padding: 0;
+}
+
+.home .n-hero-section-two.rebuild .n-hero-two-form-cat {overflow: visible;} 
+.home .n-hero-section-two.rebuild .n-hero-two-form-cat .n-saech-two-form {overflow: visible;} 
+
+
+.faq-page .vc_column-inner {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+    margin-right: auto;
+    margin-left: auto;
+}   
+
+.faq-page .wpb_wrapper {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+
+ul#searchResult li:first-child {
+	padding-top: 0px;
+}
+ul#searchResult li:last-child {
+	padding-bottom: 0px;
+}
+ul#searchResult li a {
+    padding: 10px 15px;
+    line-height: 14px;
+    display: block;
+}
+
+ul#searchResult li a:hover {
+    background: #5e2eb5;
+    color: #fff;
+}
+.faq-page {padding: 80px 0;}
+.faq-page h2.heading-title {
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    padding-bottom: 18px;
+    position: relative;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #242424;
+}
+.faq-page h2.heading-title::after {
+    background-color: #5e2eb5;
+}
+.faq-page h2.heading-title::after {
+    bottom: 0;
+    content: "";
+    height: 3px;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    width: 100px;
+}
+.faq-page h2.heading-title p { 
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.faq-page .vc_toggle {
+	background: #f5f5f5;
+    padding: 20px 10px;
+    border-radius: 4px;
+}
+
+.faq-page .faq-subtitle {
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+    width: 100%;
+}
+/*=========================  Responsive start ======================== */
+
+@media (min-width: 768px) {
+	.faq-page .vc_column-inner {
+		width: 750px !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.faq-page .vc_column-inner {
+		width: 970px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.faq-page .vc_column-inner {
+		width: 1170px !important;
+	}
+}
+
+@media (min-width: 1024px) and (max-width: 1279px){
+    .n-footer-transparent.footer-two .n-footer-block .n-app-btn{ width: 100% !important; margin: 0 0 10px 0 !important;}
+}
+
+@media (max-width:1024px){
+    
+}
+
+
+@media (max-width:991px){
+    .n-footer-transparent .n-footer-block{ width: 100%; text-align: center;display: flex;justify-content: center;align-items: center;flex-direction: column;}
+    .n-footer-transparent.footer-two .n-footer-block .n-app-btn{ width: 150px !important; text-align: left;}
+    .n-footer-transparent.footer-two .n-footer-block .n-app-btn:last-child{ margin-right: 0%;}
+
+    .n-hero-section-two.rebuild .n-hero-two-box{ padding-top: 150px !important;}
+    .home-moving-phrase p{ font-size: 24px !important;}
+    .n-footer-transparent .n-footer-block.ftr-job-location{ width: 100%;}
+    .n-footer-transparent .n-footer-block .n-page-links{ columns: initial !important;}
+}
+@media (max-width:767px){
+    .n-footer-transparent .n-footer-bottom{ padding-bottom: 30px !important;}
+    
+}
+@media (max-width:575px){
+    .home-moving-phrase p{ font-size: 18px !important;}
+}
+@media (max-width:480px){
+    .easy-job-video video#home-video{ width: 90%; height: auto;}
+}
+

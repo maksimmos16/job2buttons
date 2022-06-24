@@ -1,0 +1,40 @@
+2022-06-21T16:26:11+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-21T16:26:51+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-21T16:32:23+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
+2022-06-21T16:39:44+00:00 CRITICAL Uncaught Error: Call to a member function get_setting() on null in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php:3101
+Stack trace:
+#0 C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\theme-shortcodes\shortcodes\search_paralex_2_new.php(316): nokri_form_lang_field_callback()
+#1 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(356): search_paralex_2_new_short_base_func()
+#2 [internal function]: do_shortcode_tag()
+#3 C:\OpenServer\domains\localhost\easyjob\wp-includes\shortcodes.php(228): preg_replace_callback()
+#4 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\helpers\helpers.php(240): do_shortcode()
+#5 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop()
+#6 C:\OpenServer\domains\localhost\easyjob\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-wpbakeryshortcode.php(271): require('C:\\OpenSer in C:\OpenServer\domains\localhost\easyjob\wp-content\themes\nokri\inc\utilities-custom.php on line 3101
+
